@@ -6,7 +6,7 @@ import books from './components/books.png';
 import BuyingPage from './BuyingPage';
 function Home() {
   const handleClick=()=>{
-    <BuyingPage/>
+    //<BuyingPage/>
     alert("you clicked")
   }
 

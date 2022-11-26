@@ -1,0 +1,55 @@
+.category
+{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+     
+}
+
+.cat_one
+{
+    background-color:floralwhite;
+    margin-right: 10px;
+    padding:10%;
+}
+
+.cat_two
+{
+    background-color:floralwhite;
+    margin-right: 10px;
+    padding:10%;
+}
+.cat_three
+{
+    background-color:floralwhite;
+    margin-right: 10px;
+    padding:10%;
+}
+
+.cat_four
+{
+    background-color:floralwhite;
+    margin-right: 10px;
+    padding:10%;
+}
+
+.button_buyo
+{
+    border-radius: 30px;
+    color: black;
+        border: 1px solid black; 
+        text-align: center;
+        padding:10px 40px;
+        background-color: floralwhite;
+}
+
+.btn-buy-books
+{
+  color:black;
+  border:2px;
+  border-color: #000;
+
+}
